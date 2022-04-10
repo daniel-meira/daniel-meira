@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @daniel-meira
+- 👀 I’m interested in Python and Javascript
